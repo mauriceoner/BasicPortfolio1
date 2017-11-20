@@ -5,7 +5,7 @@
     }
 
 .whole_back {
-	background-color: grey;
+	background-color: rgb(211, 211, 211);
 }
 
 .push_down {
@@ -13,27 +13,27 @@
 }
 
 .head {
-	background-color: yellow;
+	background-color: #ffffff;
 	position: fixed;
 	top: 0;
 	width: 100%;
 	margin: 0px;
 	padding: 0px;
 	border-bottom: solid;
-	border-color: #4aaaa5;
+	border-color: #cccccc;
 	
 
 }
 
 
 .name {
-	color: grey;
+	color: #ffffff;
 	background-color: #4aaaa5;
 	width: 15%;
 	text-align: center;
 	position: bottom;
 	margin-left: 130px;
-	border: 0;
+	border: 0px;
 	padding: 10px 20px 10px 20px;
 }	
 	
@@ -104,6 +104,8 @@ footer {
 
 #footer_box {
 	padding: 10px;
+	border-top: solid;
+	border-color: #dddddd;
 }
 
 
